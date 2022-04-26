@@ -84,14 +84,15 @@
                     <phase>package</phase>
                     <goals><goal>copy</goal></goals>
                     <configuration>
+                               <source>1.8</source>
+        <target>1.8</target>
                         <artifactItems>
                             <artifactItem>
                                 <groupId>com.github.jsimone</groupId>
                                 <artifactId>webapp-runner</artifactId>
                                 <version>9.0.19.0</version>
                                 <destFileName>webapp-runner.jar</destFileName>
-                                 <source>1.8</source>
-        <target>1.8</target>
+                      
                             </artifactItem>
                         </artifactItems>
                         
