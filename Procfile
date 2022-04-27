@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar youtubesystem-2.5.12 at pom.xml.jar
+web: java -Dserver.port=$PORT -jar target/youtubesystem-0.0.1-SNAPSHOT.jar
