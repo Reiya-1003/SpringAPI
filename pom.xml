@@ -83,7 +83,7 @@
                 </includes>
                 <jdkVersion>1.8</jdkVersion>
                 <processTypes>
-                    <web>java $JAVA_OPTS -Dserver.port=$PORT -jar target/YOURAPPNAME.jar
+                    <web>java $JAVA_OPTS -Dserver.port=$PORT -jar target/youtubesystem.jar
                         -Dspring.profiles.active=test
  </web>
                 </processTypes>
