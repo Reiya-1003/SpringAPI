@@ -1,17 +1,17 @@
 # ページ概要
 
-<img width="1439" alt="PraPhot04" src="https://user-images.githubusercontent.com/80142183/161185628-3a9223ce-39ee-4704-b5fe-3724ab912d2d.png">
+<img width="1440" alt="スクリーンショット 2022-05-10 17 21 29" src="https://user-images.githubusercontent.com/80142183/167583837-b45a516d-5654-43c4-8223-a6f40ea506ad.png">
 
 
-リンク先：
+リンク先：https://springyoutube.herokuapp.com/
+※バックエンドのデプロイができていないので検索機能のみ使用できます。
 
 ## 使用言語
-* React.js  17.0.2
-* Python  3.9
-* Django  3.1.2
-* django rest_framework
-* cors 
-* sqlite3
+* React.js  18.0.0
+* Java  １１
+* Springframework   2.5.12
+* MAMP 4.5
+* MySQL 5.6.38
 
 ## アーキテクチャ
 　　
