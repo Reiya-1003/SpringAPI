@@ -27,9 +27,10 @@
 
 ## 機能面
 ### YoutubeAPIを使用した検索機能
-<img width="894" alt="スクリーンショット 2022-04-01 14 24 47" src="https://user-images.githubusercontent.com/80142183/161200484-2b96ce03-37ab-4f0b-8b49-91e170cca958.png">
+<img width="1440" alt="スクリーンショット 2022-05-10 17 21 29" src="https://user-images.githubusercontent.com/80142183/167586149-36811019-0ed3-48dc-b78a-f74ad10bfa78.png">
 
-・主にアニメーションをつけるのに役立ちます。
+・入力フォームに検索ワードを入力後、検索ボタンを押したタイミングでAxiosによるYoutube APIリクエストが飛び、結果が返ってくるように調整。
+・主にReactHookのUseStateを使用して実装。
 
 
 
