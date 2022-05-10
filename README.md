@@ -16,18 +16,17 @@
 ## アーキテクチャ
 　　
   
-![DjangoReact](https://user-images.githubusercontent.com/80142183/161189075-116b06de-9a0b-4755-98ac-f1fdfb1b8222.jpg)
+<img width="488" alt="スクリーンショット 2022-05-09 16 29 27" src="https://user-images.githubusercontent.com/80142183/167585611-4d472f4e-756d-43e0-b8d4-3b616c851910.png">
   
 ## デプロイ
-* フロントエンド　→ Vercel
-* バックエンド　→ pythonanywhere
-* cors → heroku (axiosでfetchする際にリクエストエラーが起きるため必要)
+* フロントエンド　→ Heroku
+* バックエンド　→ 未達　Herokuで試みたもののAPIリクエストが不可。後日再挑戦予定
 
 
 
 
 ## 機能面
-### Sassによるページデザイン
+### YoutubeAPIを使用した検索機能
 <img width="894" alt="スクリーンショット 2022-04-01 14 24 47" src="https://user-images.githubusercontent.com/80142183/161200484-2b96ce03-37ab-4f0b-8b49-91e170cca958.png">
 
 ・主にアニメーションをつけるのに役立ちます。
