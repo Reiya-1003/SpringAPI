@@ -50,6 +50,11 @@
 
 
 ## 登録したユーチューブIDから取得し、プレイリストを一覧表示
-* Djangoを使用してPythonの開発経験をしました。
-* デザイン・機能含めアップデートを予定。今後開発や経験が増えていくにつれ、当ページもアップデートしていきます。
+<img width="1440" alt="スクリーンショット 2022-05-10 17 21 49" src="https://user-images.githubusercontent.com/80142183/167758887-d48115e3-a08d-4f06-94e5-4fe0d04b34a9.png">
+* 登録したユーチューブIDでYoutubeAPIを叩き、取得したデータをuseStateで保持、mapを使用してデータの数だけ表示する。
+* クリックするとプレイリストのページに飛ぶ。
 
+## 余談　ピクセルパーフェクト
+
+<img width="1440" alt="スクリーンショット 2022-05-10 17 21 49" src="https://user-images.githubusercontent.com/80142183/167758887-d48115e3-a08d-4f06-94e5-4fe0d04b34a9.png">、
+<img width="1440" alt="スクリーンショット 2022-05-10 17 21 49" src="https://user-images.githubusercontent.com/80142183/167758887-d48115e3-a08d-4f06-94e5-4fe0d04b34a9.png">
