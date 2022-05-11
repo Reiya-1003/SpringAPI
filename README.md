@@ -29,13 +29,13 @@
 ### YoutubeAPIを使用した検索機能
 <img width="1440" alt="スクリーンショット 2022-05-10 17 21 29" src="https://user-images.githubusercontent.com/80142183/167586149-36811019-0ed3-48dc-b78a-f74ad10bfa78.png">
 
-・入力フォームに検索ワードを入力後、検索ボタンを押したタイミングでAxiosによるYoutube APIリクエストが飛び、結果が返ってくるように調整。
-・主にReactHookのUseStateを使用して実装。
+* 入力フォームに検索ワードを入力後、検索ボタンを押したタイミングでAxiosによるYoutube APIリクエストが飛び、結果が返ってくるように調整。
+* 主にReactHookのUseStateを使用して実装。
 
 
 
-### react-scrollを使用したスクロール機能
-<img width="599" alt="スクリーンショット 2022-04-01 14 26 00" src="https://user-images.githubusercontent.com/80142183/161200498-723a52d9-dbff-446d-9741-0d6f3b9f57fe.png">
+### サインイン機能
+
 
 ・ページをリッチにするための工夫
 ### django rest_frameworkによるバックエンド管理・REST APIサービスの利用（PRACTICE部分）
